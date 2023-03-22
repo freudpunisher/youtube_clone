@@ -1,8 +1,8 @@
 import React from 'react'
 
-function ChannelDetail() {
+const ChannelDetail = () => {
   return (
-    <div>hannelDetail</div>
+    <div>ChannelDetail</div>
   )
 }
 
